@@ -1,1 +1,1 @@
-This repository is for applications and programs I have created to show my progress as programmer. The code is written in Python. It illustrates the use of several data analysis libraries and modules such as Pandas, NumPy, Plotly Express graphs and Plotly Dash web tool.
+This repository is for applications and programs I have created to show my progress as a programmer. The code is written in Python. It illustrates the use of several data analysis libraries and modules such as Pandas, NumPy, Plotly Express graphs and Plotly Dash web tool.
